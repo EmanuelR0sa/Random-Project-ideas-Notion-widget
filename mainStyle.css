@@ -1,0 +1,84 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
+
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+    --text-color:#000000;
+    --card-color:#f0f0f0;
+    --reload-color: #ffffff;
+    --quote-color:#666666;
+}
+
+.darkMode{ 
+    --text-color:#ffffff;
+    --card-color:#3f3f3f;
+    --reload-color: #cfcfcf;
+    --quote-color:#b4b4b4;
+}
+
+#textDescription{
+    color: var(--text-color);
+    font-size: 18px;
+}
+
+#textSubject{
+    color: var(--quote-color);
+    font-size: 18px;
+    font-weight: 100;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#textTitle{
+    color: var(--text-color);
+    font-size: 18px;  
+    font-weight:600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+#randomButton{
+    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin-top: 5px;
+    background-color: var(--reload-color);
+}
+
+#randomButton:hover{
+  cursor: pointer;
+}
+
+.card{
+    padding: 20px;
+    background-color:var(--card-color);
+    border-radius: 10px;
+    min-width: 340px;
+    min-height: 175px;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: justify;
+}
+
+.bi-quote,.bi-moon-fill, .bi-brightness-high-fill {
+    color:var(--quote-color);
+    
+}
+
+.card-icons{ 
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+

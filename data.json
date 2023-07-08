@@ -1,0 +1,123 @@
+[
+    {
+      "id": "01",
+      "Title": "Meal Planner Assistant",
+      "Description": "An app that helps users plan their meals based on their dietary preferences, allergies, and available ingredients, providing recipes and grocery lists.",
+      "Subject": "Food"
+    },
+    {
+      "id": "02",
+      "Title": "Language Exchange Network",
+      "Description": "A platform that connects language learners around the world, facilitating language exchange partnerships and providing tools for practicing languages through messaging, voice calls, and video chats.",
+      "Subject": "Language"
+    },
+    {
+      "id": "03",
+      "Title": "Commute Buddy",
+      "Description": "An app that optimizes commuting routes, considering factors like traffic, public transportation schedules, and user preferences, to provide the most efficient and stress-free commute options.",
+      "Subject": "Transportation"
+    },
+    {
+      "id": "04",
+      "Title": "Mindful Spending Tracker",
+      "Description": "An app that helps users track their spending habits, providing insights into their financial behavior and offering tips for saving money and making mindful purchasing decisions.",
+      "Subject": "Finances"
+    },
+    {
+      "id": "05",
+      "Title": "Tutor Connect",
+      "Description": "A platform that connects students seeking tutoring services with qualified tutors in various subjects, enabling virtual tutoring sessions and progress tracking.",
+      "Subject": "Education"
+    },
+    {
+      "id": "06",
+      "Title": "Personal Fitness Coach",
+      "Description": "An app that offers personalized workout plans and tracks users' fitness progress, providing real-time feedback and motivation to help individuals achieve their health and fitness goals",
+      "Subject": "Fitness"
+    },
+    {
+      "id": "07",
+      "Title": "Pet Care Assistant",
+      "Description": "An app that provides pet owners with reminders for feeding, grooming, medication, and veterinary appointments, as well as a platform to connect with local pet services and share tips and advice with other pet owners.",
+      "Subject": "Pets"
+    },
+    {
+      "id": "08",
+      "Title": "Eco-Friendly Shopping Assistant",
+      "Description": "An app that helps users make sustainable shopping choices by providing information on eco-friendly products, offering alternatives to single-use items, and suggesting local environmentally conscious stores.",
+      "Subject": "E-Commerce"
+    },
+    {
+      "id": "09",
+      "Title": "Community Volunteer Network",
+      "Description": "A platform that connects volunteers with local community organizations, making it easy for users to find volunteer opportunities and track their impact through a centralized app.",
+      "Subject": "Community"
+    },
+    {
+      "id": "10",
+      "Title": "Digital Mental Health Companion",
+      "Description": "An app that offers mental health resources, guided meditation, mood tracking, and access to online therapy or counseling services, providing support and tools for managing stress, anxiety, and other mental health challenges.",
+      "Subject": "Health"
+    },
+    {
+      "id": "11",
+      "Title": "Study Buddy Network",
+      "Description": "An app that connects students studying the same subjects or pursuing similar academic goals, facilitating study groups, knowledge exchange, and peer support.",
+      "Subject": "Education"
+    },
+    {
+      "id": "12",
+      "Title": "Food Allergy Tracker",
+      "Description": "An app that allows users to input their food allergies or dietary restrictions, and then scan product barcodes to check for allergens, ensuring safer shopping and eating experiences.",
+      "Subject": "Food"
+    },
+    {
+      "id": "13",
+      "Title": "Virtual Home Renovator",
+      "Description": "This app enables users to visualize home renovations by overlaying digital models of furniture, paint colors, and decorations onto real-time images of their living spaces.",
+      "Subject": "Decoration"
+    },
+    {
+      "id": "14",
+      "Title": "Mindful Commuting",
+      "Description": "An app designed to reduce commuter stress by suggesting the best routes and transportation options, while also offering guided meditation and stress-relief exercises during the journey.",
+      "Subject": "Transportation"
+    },
+    {
+      "id": "15",
+      "Title": "Community Food Sharing",
+      "Description": "An app that connects local restaurants, grocery stores, and individuals with surplus food to nearby community members who may be in need, reducing food waste and supporting those facing food insecurity.",
+      "Subject": "Community"
+    },
+    {
+      "id": "16",
+      "Title": "Virtual Fashion Stylist",
+      "Description": "This app employs augmented reality (AR) to let users try on virtual outfits and accessories, making it easier to explore new fashion choices without having to visit physical stores.",
+      "Subject": "Fashion"
+    },
+    {
+      "id": "17",
+      "Title": "Habitat Protector",
+      "Description": "An app that educates users about local endangered species and ecosystems, offering information on how to contribute to conservation efforts and participate in eco-friendly activities.",
+      "Subject": "Nature"
+    },
+    {
+      "id": "18",
+      "Title": "Date Idea Generator",
+      "Description": "This app helps users discover unique and personalized date ideas. It can consider factors such as location, budget, and interests to suggest creative date options.",
+      "Subject": "Dating"
+    },
+    {
+      "id": "19",
+      "Title": "Investment Education Hub",
+      "Description": "This app can provide beginner-friendly guides, articles, videos, and interactive quizzes to help users learn about different investment types, such as stocks, bonds, mutual funds, and cryptocurrencies.",
+      "Subject": "Finances"
+    },
+    {
+      "id": "20",
+      "Title": "Pet-Friendly Workout Classes",
+      "Description": "This app connects pet owners with pet-friendly workout classes and activities. Users can discover classes like dog-friendly yoga, agility training, or outdoor adventures that involve pets.",
+      "Subject": "Pets"
+    }
+  ]
+  
